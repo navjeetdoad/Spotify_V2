@@ -5,5 +5,6 @@ corresponding lyrics for the song which is currently playing.
 ![alt text](https://github.com/navjeetdoad/Spotify_V2/blob/main/spotify.png)
 
 The application asks for you to verify your Spotify log-in, and then takes you to the application page where
-you can play songs while also viewing the lyrics for that particular song. The frontend for this application was
-created using React.js and Axios, and the backend server was created using Node.js.
+you can play songs while also viewing the lyrics for that particular song 
+(If a song does not have any available lyrics, a message will appear saying that no lyrics are available). The frontend for this 
+application was created using React.js and Axios, and the backend server was created using Node.js.
